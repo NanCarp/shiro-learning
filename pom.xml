@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>shiro-learning-chapter2</module>
+        <module>shiro-learning-chapter3</module>
     </modules>
 
 
