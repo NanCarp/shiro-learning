@@ -11,6 +11,9 @@
     <modules>
         <module>shiro-learning-chapter2</module>
         <module>shiro-learning-chapter3</module>
+        <module>shiro-learning-chapter4</module>
+        <module>shiro-learning-chapter5</module>
+        <module>shiro-learning-chapter6</module>
     </modules>
 
 
